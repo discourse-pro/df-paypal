@@ -1,0 +1,3 @@
+en:
+  site_settings:
+    «PayPal»_Payment_Currency: "The currency of prices and PayPal transactions.<br/>See <a href='https://developer.paypal.com/docs/classic/api/currency_codes/'>the currencies supported by PayPal</a>."

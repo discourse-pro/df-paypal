@@ -1,0 +1,5 @@
+paypal:
+  «PayPal»_Payment_Currency:
+    enum: 'PaypalCurrencies'
+    default: 'USD'
+    client: true

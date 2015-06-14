@@ -1,0 +1,3 @@
+ru:
+  site_settings:
+    «PayPal»_Payment_Currency: "Валюта цен и транзакций PayPal.<br/><a href='https://developer.paypal.com/docs/classic/api/currency_codes/'>Валюты, поддерживаемые PayPal</a>."
