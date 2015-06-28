@@ -1,3 +1,10 @@
 en:
   site_settings:
     «PayPal»_Payment_Currency: "The currency of prices and PayPal transactions.<br/>See <a href='https://developer.paypal.com/docs/classic/api/currency_codes/'>the currencies supported by PayPal</a>."
+    «PayPal»_Mode: "<a href='https://developer.paypal.com/docs/classic/lifecycle/ug_sandbox/'>What is PayPal API Sandbox Mode?</a>"
+    «PayPal»_Sandbox_API_Username: "<a href='https://developer.paypal.com/docs/classic/lifecycle/sb_credentials/'>How to get?</a>"
+    «PayPal»_Sandbox_API_Password: "<a href='https://developer.paypal.com/docs/classic/lifecycle/sb_credentials/'>How to get?</a>"
+    «PayPal»_Sandbox_Signature: "<a href='https://developer.paypal.com/docs/classic/lifecycle/sb_credentials/'>How to get?</a>"
+    «PayPal»_API_Username: "<a href='https://developer.paypal.com/docs/classic/api/apiCredentials/#creating-classic-api-credentials'>How to get?</a>"
+    «PayPal»_API_Password: "<a href='https://developer.paypal.com/docs/classic/api/apiCredentials/#creating-classic-api-credentials'>How to get?</a>"
+    «PayPal»_Signature: "<a href='https://developer.paypal.com/docs/classic/api/apiCredentials/#creating-classic-api-credentials'>How to get?</a>"

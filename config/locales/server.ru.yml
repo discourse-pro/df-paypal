@@ -1,3 +1,10 @@
 ru:
   site_settings:
     «PayPal»_Payment_Currency: "Валюта цен и транзакций PayPal.<br/><a href='https://developer.paypal.com/docs/classic/api/currency_codes/'>Валюты, поддерживаемые PayPal</a>."
+    «PayPal»_Mode: "<a href='https://developer.paypal.com/docs/classic/lifecycle/ug_sandbox/'>Что такое тестовый режим PayPal API?</a>"
+    «PayPal»_Sandbox_API_Username: "<a href='https://developer.paypal.com/docs/classic/lifecycle/sb_credentials/'>где взять?</a>"
+    «PayPal»_Sandbox_API_Password: "<a href='https://developer.paypal.com/docs/classic/lifecycle/sb_credentials/'>где взять?</a>"
+    «PayPal»_Sandbox_Signature: "<a href='https://developer.paypal.com/docs/classic/lifecycle/sb_credentials/'>где взять?</a>"
+    «PayPal»_API_Username: "<a href='https://developer.paypal.com/docs/classic/api/apiCredentials/#creating-classic-api-credentials'>где взять?</a>"
+    «PayPal»_API_Password: "<a href='https://developer.paypal.com/docs/classic/api/apiCredentials/#creating-classic-api-credentials'>где взять?</a>"
+    «PayPal»_Signature: "<a href='https://developer.paypal.com/docs/classic/api/apiCredentials/#creating-classic-api-credentials'>где взять?</a>"

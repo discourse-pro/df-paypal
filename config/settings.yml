@@ -1,5 +1,27 @@
 paypal:
   «PayPal»_Payment_Currency:
-    enum: 'PaypalCurrencies'
+    enum: 'Paypal_Currencies'
     default: 'USD'
     client: true
+  «PayPal»_Mode:
+    enum: 'Paypal_Modes'
+    default: 'sandbox'
+    client: true
+  «PayPal»_Sandbox_API_Username:
+    default: ""
+    client: false
+  «PayPal»_Sandbox_API_Password:
+    default: ""
+    client: false
+  «PayPal»_Sandbox_Signature:
+    default: ""
+    client: false
+  «PayPal»_API_Username:
+    default: ""
+    client: false
+  «PayPal»_API_Password:
+    default: ""
+    client: false
+  «PayPal»_Signature:
+    default: ""
+    client: false
