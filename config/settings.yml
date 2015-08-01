@@ -1,8 +1,4 @@
-paypal:
-  «PayPal»_Payment_Currency:
-    enum: '::Df::Paypal::Currencies'
-    default: 'USD'
-    client: true
+df_paypal:
   «PayPal»_Mode:
     enum: '::Df::Paypal::Modes'
     default: 'sandbox'

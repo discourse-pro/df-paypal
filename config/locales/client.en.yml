@@ -1,4 +1,9 @@
 en:
+  admin_js:
+    admin:
+      site_settings:
+        categories:
+          df_paypal: 'Discourse.PRO PayPal'
   js:
     Sandbox: 'Sandbox'
     Production: 'Production'
