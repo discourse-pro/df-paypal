@@ -4,7 +4,7 @@ paypal:
     default: 'USD'
     client: true
   «PayPal»_Mode:
-    enum: 'Paypal_Modes'
+    enum: '::Df::Paypal::Modes'
     default: 'sandbox'
     client: true
   «PayPal»_Sandbox_API_Username:
