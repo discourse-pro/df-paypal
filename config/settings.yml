@@ -9,15 +9,19 @@ df_paypal:
   «PayPal»_Sandbox_API_Password:
     default: ""
     client: false
+    type: df_password
   «PayPal»_Sandbox_Signature:
     default: ""
     client: false
+    type: df_password
   «PayPal»_API_Username:
     default: ""
     client: false
   «PayPal»_API_Password:
     default: ""
     client: false
+    type: df_password
   «PayPal»_Signature:
     default: ""
     client: false
+    type: df_password
